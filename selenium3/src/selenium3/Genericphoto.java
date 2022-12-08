@@ -23,5 +23,7 @@ public class Genericphoto {
 		File src = ts.getScreenshotAs(OutputType.FILE);	
 		File dest = new File("photo+d2+jpeg");
 		FileUtils.copyFile(src, dest);	}
+	
+	//commit madini mattond sala
 
 }
